@@ -35,13 +35,13 @@ Are penguins punks?
 
 ## Linking to headings and sites
 
-The hash part of the URL can be used to create links in the markdown to specific headings in this markdown file (defined using # or ##). You can see this in action by clicking [here](/#site2) or [here](/#guide).
+The hash part of the URL can be used to create links in the markdown to specific headings in this markdown file (defined using # or ##). You can see this in action by clicking [here](./#site2) or [here](./#guide).
 
 If these sites area also registered in the `index.json` file, then corresponding changes in the viewer (camera position, render style, point visibility etc.) will be updated, and any defined site audio triggered (todo).
 
 It's assumed (though not essential) that each "site" associated with a virtual field trip will contain a corresponding heading. An example of this can be seen below.
 
-## [Site 1](/#site1)
+## [Site 1](./#site1)
 
 - Clicking on the link above will zoom directly too it in the dataset, so we can 
   explore ourselves and see what is going on.
@@ -50,7 +50,7 @@ It's assumed (though not essential) that each "site" associated with a virtual f
 
 ![My funky rock collection](https://upload.wikimedia.org/wikipedia/commons/4/41/Pet_rock.jpg)
 
-## [Site 2](/#site2)
+## [Site 2](./#site2)
 
 - This is another location that we want to explore in this dataset.
 

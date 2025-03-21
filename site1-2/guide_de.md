@@ -22,15 +22,15 @@ Sind Pinguine Punks?
 - [ ] Manchmal
 ---
 ## Verknüpfung mit Überschriften und Websites
-Der Hash-Teil der URL kann verwendet werden, um in der Markierung Links zu bestimmten Überschriften in dieser Markierungsdatei zu erstellen (definiert mit # oder ##). Sie können dies in Aktion sehen, indem Sie [hier](/#site2) oder [hier](/#guide) klicken.
+Der Hash-Teil der URL kann verwendet werden, um in der Markierung Links zu bestimmten Überschriften in dieser Markierungsdatei zu erstellen (definiert mit # oder ##). Sie können dies in Aktion sehen, indem Sie [hier](./#site2) oder [hier](./#guide) klicken.
 Wenn diese Seiten auch in der Datei „index.json“ registriert sind, werden die entsprechenden Änderungen im Viewer (Kameraposition, Renderstil, Punktsichtbarkeit usw.) aktualisiert und das definierte Audio der Seite wird ausgelöst (noch zu erledigen).
 Es wird davon ausgegangen (ist aber nicht zwingend erforderlich), dass jede „Stätte“, die mit einer virtuellen Exkursion verbunden ist, eine entsprechende Überschrift enthält. Ein Beispiel hierfür ist unten zu sehen.
-## [Stätte 1](/#site1)
+## [Stätte 1](./#site1)
 - Wenn Sie auf den obigen Link klicken, wird direkt darauf im Datensatz gezoomt, sodass wir 
   selbst erkunden und sehen können, was vor sich geht.
 - Ich habe einen schönen Stein gefunden – sehen Sie ihn sich an!
 ![Meine abgefahrene Steinsammlung](https://upload.wikimedia.org/wikipedia/commons/4/41/Pet_rock.jpg)
-## [Site 2](/#site2)
+## [Site 2](./#site2)
 - Dies ist ein weiterer Ort, den wir in diesem Datensatz erkunden möchten.
 - Wie cool ist dieser Ort! Schauen Sie, was wir sehen können?
 
